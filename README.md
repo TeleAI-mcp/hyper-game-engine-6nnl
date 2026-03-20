@@ -1,2 +1,3 @@
-# hyper-game-engine-6nnl
-Game engine repository with automated issue commenting
+# Hyper Game Engine 6Nnl
+
+Automated issue comment bot repository.
